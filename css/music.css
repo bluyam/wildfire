@@ -1,0 +1,20 @@
+iframe {
+    margin: 1.5em auto;
+}
+
+#songs {
+    padding-top: 1.2em;
+    padding-bottom: 1.2em;
+}
+
+header.masthead {
+    background-image: url(../images/techdiff_bw.JPG);
+}
+
+/* NON-DESKTOP STYLING */
+
+@media screen and (max-width: 600px) {
+    iframe {
+        margin: .5em auto;
+    }
+}

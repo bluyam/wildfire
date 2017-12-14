@@ -1,0 +1,23 @@
+header.masthead {
+    background-image: url(../images/hands_bw.JPG);
+}
+
+.jumbo-wrapper {
+    background: linear-gradient(45deg, rgba(80, 0, 0, 0.6), rgba(106, 16, 0, 0.6) 12%, rgba(159, 48, 0, 0.6) 22%, rgba(200, 74, 0, 0.6) 32%, rgba(230, 92, 0, 0.6) 40%, rgba(248, 103, 0, 0.6) 47%, rgba(255, 107, 0, 0.6) 52%, rgba(255, 160, 7, 0.6) 60%, rgba(255, 228, 17, 0.6) 87%);
+}
+
+.intro-text {
+    padding: 25vh 1em;
+    text-align: left;
+}
+
+.intro-heading {
+    width: 100%;
+}
+
+.intro-lead-in, .intro-heading {
+    font-size: 3em;
+    line-height: 50px;
+    letter-spacing: 2px;
+}
+
