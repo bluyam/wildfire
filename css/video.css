@@ -1,0 +1,34 @@
+#songs {
+    height: 100vh;
+}
+
+#songs padding-left {
+    margin: 0 2em;
+}
+#songs ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+#songs li {
+    padding: 4em 0;
+}
+
+#songs a {
+    font-size: 3em;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+
+}
+
+@media screen and (max-width: 600px) {
+    #songs ul {
+    list-style: none;
+    display: block;
+    }
+    #songs {
+    height: 100%;
+    }
+}
